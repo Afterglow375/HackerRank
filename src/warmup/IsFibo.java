@@ -1,4 +1,4 @@
-package warm.up;
+package warmup;
 
 import java.io.BufferedReader;
 import java.io.IOException;
